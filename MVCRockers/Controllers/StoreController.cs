@@ -20,9 +20,9 @@ namespace MVCRockers.Controllers
             return "Hello from store.Browse()";
         }
 
-        public string Details()
+        public string Details(int id)
         {
-            return "Hello from store.Details()";
+            return HttpUtility.HtmlEncode("Store.details(), id = " + id);
         }
     }
 }
