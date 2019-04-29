@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCRockers", "MVCRockers\MVCRockers.csproj", "{F912FAE2-9FBE-4687-93F2-06A008C05EF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCRockers.Tests", "MVCRockers.Tests\MVCRockers.Tests.csproj", "{B8E9ABF6-E713-4288-A892-2678C81AA348}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F912FAE2-9FBE-4687-93F2-06A008C05EF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F912FAE2-9FBE-4687-93F2-06A008C05EF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F912FAE2-9FBE-4687-93F2-06A008C05EF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F912FAE2-9FBE-4687-93F2-06A008C05EF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8E9ABF6-E713-4288-A892-2678C81AA348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8E9ABF6-E713-4288-A892-2678C81AA348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8E9ABF6-E713-4288-A892-2678C81AA348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8E9ABF6-E713-4288-A892-2678C81AA348}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41455CFC-0ABA-4D6D-A640-71F509FD7C4A}
+	EndGlobalSection
+EndGlobal
